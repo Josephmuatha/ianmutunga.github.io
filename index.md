@@ -46,7 +46,7 @@ I’m actively seeking **entry-level data analyst** opportunities where I can gr
 - 💼 [LinkedIn](https://www.linkedin.com/in/ian-mutunga)
 - 🗂️ [GitHub](https://github.com/Josephmuatha)
 - 📄 [Download My Resume](IanMutunga_Resume.pdf)
-- 📧 Email: ian.mutunga@email.com *(replace with your actual email)*
+- 📧 Email: ian.mutunga98@gmail.com
 
 ---
 
