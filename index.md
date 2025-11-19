@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Ian Mutunga
-[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Contact](contact.md)
+<p align="center">
+  <a href=" index.md"><button>Home</button></a>
+  <a href="about.md"><button>About</button></a>
+  <a href= "projects.md"><button>Projects</button></a>
+  <a href="contact.md"><button>Contact</button></a>
+</p>
+
 
 I'm a **Data Analyst** passionate about transforming data into actionable insights. I enjoy working with data to support evidence-based decision-making.
 
