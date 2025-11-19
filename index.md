@@ -1,32 +1,55 @@
 # 👋 Hi, I'm Ian Mutunga
 
-I'm an aspiring **Data Analyst** with a passion for transforming data into actionable insights. I specialize in using tools like **Power BI, Excel, Python, and Tableau** to uncover meaningful trends and deliver clear visual reports.
+I'm an aspiring **Data Analyst** passionate about transforming data into actionable insights. I enjoy working with data to support evidence-based decision-making.
 
 ---
 
-## 💼 Projects
+## 🧰 Tools & Technologies
 
-Here are some of my recent data analysis projects:
+- **Languages:** Python, SQL, DAX
+- **Data Analysis:** Excel, Pandas, Numpy
+- **Visualization:** Power BI, Tableau, Matplotlib
+- **Databases:** MySQL
+- **Other:** Git, Jupyter Notebooks, VS Code
 
-### [Sales Dashboard](https://github.com/Josephmuatha/sales-dashboard)
+---
+
+## 📁 Projects
+
+### 🔹 [Sales Dashboard](https://github.com/Josephmuatha/sales-dashboard)
 - **Tools:** Power BI, Excel
-- Built an interactive dashboard to visualize retail sales performance and identify profit-impacting discount trends.
+- Built a dynamic sales performance dashboard to uncover patterns and pricing insights.
 
-### [Kisumu Fuel Usage & KOKO Awareness](https://github.com/Josephmuatha/Kisumu-fuel-analysis)
+### 🔹 [Kisumu Fuel Usage & KOKO Awareness](https://github.com/Josephmuatha/Kisumu-fuel-analysis)
 - **Tools:** Excel, Python
-- Analyzed household fuel data to inform a clean energy market entry strategy in Kisumu, Kenya.
-- 📄 [Report PDF](../Kisumu-fuel-analysis/Kisumu_Fuel_Usage_Analysis.pdf)
+- Analyzed household fuel patterns to guide clean fuel strategy in Kisumu.
+- 📄 [View Report](https://github.com/Josephmuatha/Kisumu-fuel-analysis/blob/main/Kisumu_Fuel_Usage_Analysis.pdf)
 
 ---
 
-## 📫 Contact
+## 📜 Certifications
 
-- **LinkedIn:** [Ian Mutunga](https://www.linkedin.com/in/ian-mutunga)
-- **GitHub:** [Josephmuatha](https://github.com/Josephmuatha)
+- 📘 Introduction to Data Analysis – Coursera  
+- 📊 Excel for Business – Macquarie University  
+- 🐍 Python for Data Science – IBM Data Science  
 
 ---
+
+## 💼 Career Goal
+
+I’m actively seeking **entry-level data analyst** opportunities where I can grow and help organizations make better decisions using data.
+
+---
+
+## 📫 Contact Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ian-mutunga)
+- 🗂️ [GitHub](https://github.com/Josephmuatha)
+- 📧 Email: ian.mutunga@email.com *(replace with your actual email)*
+
+---
+
+_This portfolio was built with ❤️ using [GitHub Pages](https://pages.github.com/)_
 
 © 2025 Ian Mutunga
-
-
-> “The goal is to turn data into information, and information into insight.” – Carly Fiorina
+mation, and information into insight.” – Carly Fiorina
