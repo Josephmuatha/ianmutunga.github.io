@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Ian Mutunga
+[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Contact](contact.md)
 
 I'm a **Data Analyst** passionate about transforming data into actionable insights. I enjoy working with data to support evidence-based decision-making.
 
