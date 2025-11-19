@@ -29,9 +29,12 @@ I'm a **Data Analyst** passionate about transforming data into actionable insigh
 
 ## 📜 Certifications
 
-- 📘 Introduction to Data Analysis – Coursera  
-- 📊 Excel for Business – Macquarie University  
-- 🐍 Python for Data Science – IBM Data Science  
+ ✓	Certificate in data analytics | Google | 2023 | Credential: Here  
+✓	Certificate in Data analysis | ALx Kenya | 2024 | Credential: Here  
+✓	Certified Business Analysis Professional | Google CBAP | Credential: Here 
+✓	Certified Public Accountant | 2025| August | Exams  
+✓	Certified Market Analyst | Coursera | 2025 | Credential: Here 
+ 
 
 ---
 
