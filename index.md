@@ -1,37 +1,32 @@
 # 👋 Hi, I'm Ian Mutunga
 
-I'm an aspiring **Data Analyst** with a passion for using data to solve real-world problems.
+I'm an aspiring **Data Analyst** with a passion for transforming data into actionable insights. I specialize in using tools like **Power BI, Excel, Python, and Tableau** to uncover meaningful trends and deliver clear visual reports.
 
 ---
 
-## 🧠 About Me
+## 💼 Projects
 
-- 🎯 Seeking entry-level data analyst roles
-- 🐍 Learning Python and applying analytics tools
-- 📊 Tools I use: **Excel**, **Power BI**, **Tableau**, **MySQL**
-- 🔍 I enjoy turning messy data into actionable insights
-
----
-
-## 🚀 Featured Projects
+Here are some of my recent data analysis projects:
 
 ### [Sales Dashboard](https://github.com/Josephmuatha/sales-dashboard)
-Power BI dashboard analyzing sales performance across regions.
+- **Tools:** Power BI, Excel
+- Built an interactive dashboard to visualize retail sales performance and identify profit-impacting discount trends.
 
-### [Customer Segmentation](https://github.com/Josephmuatha/customer-segmentation)
-Used Python and clustering to group customers by behavior.
+### [Kisumu Fuel Usage & KOKO Awareness](https://github.com/Josephmuatha/Kisumu-fuel-analysis)
+- **Tools:** Excel, Python
+- Analyzed household fuel data to inform a clean energy market entry strategy in Kisumu, Kenya.
+- 📄 [Report PDF](../Kisumu-fuel-analysis/Kisumu_Fuel_Usage_Analysis.pdf)
 
-### [Kisumu Fuel Usage Analysis](https://github.com/Josephmuatha/Kisumu-fuel-analysis)
-Survey insights on clean fuel awareness and spending patterns in Kisumu.  
-📄 [View Report](Kisumu_Fuel_Usage_Analysis.pdf)
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [Ian Mutunga](https://www.linkedin.com/in/ian-mutunga)
+- **GitHub:** [Josephmuatha](https://github.com/Josephmuatha)
 
 ---
 
-## 📫 Let's Connect
+© 2025 Ian Mutunga
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ian-mutunga)
-- 📧 [ianmutunga98@gmail.com](mailto:ianmutunga98@gmail.com)
-
----
 
 > “The goal is to turn data into information, and information into insight.” – Carly Fiorina
