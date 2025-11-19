@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ian Mutunga
 
-I'm an aspiring **Data Analyst** passionate about transforming data into actionable insights. I enjoy working with data to support evidence-based decision-making.
+I'm a **Data Analyst** passionate about transforming data into actionable insights. I enjoy working with data to support evidence-based decision-making.
 
 ---
 
@@ -37,7 +37,7 @@ I'm an aspiring **Data Analyst** passionate about transforming data into actiona
 
 ## 💼 Career Goal
 
-I’m actively seeking **entry-level data analyst** opportunities where I can grow and help organizations make better decisions using data.
+I’m actively seeking **entry / mid-level data analyst** opportunities where I can grow and help organizations make better decisions using data.
 
 ---
 
@@ -53,4 +53,4 @@ I’m actively seeking **entry-level data analyst** opportunities where I can gr
 _This portfolio was built with ❤️ using [GitHub Pages](https://pages.github.com/)_
 
 © 2025 Ian Mutunga
-mation, and information into insight.” – Carly Fiorina
+“The goal is to turn data into information, and information into insight.” – Carly Fiorina
